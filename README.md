@@ -1,2 +1,2 @@
 # hello-world
-THis is my hellow world git hub project.
+This is my hello world git hub project.
